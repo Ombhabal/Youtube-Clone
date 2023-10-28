@@ -8,7 +8,6 @@ This is a YouTube clone web application built using React, styled with Tailwind 
 
 - Search for YouTube videos
 - Watch videos
-- Like and comment on videos
 - Responsive design for various screen sizes
 
 ## Technologies Used

@@ -49,9 +49,9 @@ This is a YouTube clone web application built using React, styled with Tailwind 
 
 5. **Start the development server:**
 
-   bash
+   ```bash
    npm start
-   
+   ```
 
 6. **Open your web browser and go to [http://localhost:3000](http://localhost:3000) to use the YouTube clone.**
 

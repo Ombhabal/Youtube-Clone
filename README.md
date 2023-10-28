@@ -84,6 +84,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 If you have any questions or feedback, feel free to reach out to us:
 
-- Email: ombhabal@gmail.com
+- Email: ombhabal2223@ternaengg.ac.in
 
 Enjoy using your YouTube clone!

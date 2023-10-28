@@ -21,7 +21,7 @@ This is a YouTube clone web application built using React, styled with Tailwind 
 1. **Clone the repository:**
 
    bash
-   git clone (https://github.com/your-username/youtube-clone.git)
+   git clone (https://github.com/Ombhabal/Youtube-Clone.git)
    
 
 2. **Navigate to the project directory:**

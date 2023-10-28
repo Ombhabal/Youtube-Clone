@@ -59,7 +59,6 @@ This is a YouTube clone web application built using React, styled with Tailwind 
 
 - Use the search bar to find YouTube videos.
 - Click on a video to watch it.
-- Interact with the video by liking and commenting.
 
 ## Contributing
 

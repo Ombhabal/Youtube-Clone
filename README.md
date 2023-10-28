@@ -78,5 +78,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 - Thanks to the creators of React, Tailwind CSS, and RapidAPI.
 - Inspired by the YouTube platform.
+- and special thanks to my team members.
+
+## Contact
+
+If you have any questions or feedback, feel free to reach out to us:
+
+- Email: ombhabal@gmail.com
 
 Enjoy using your YouTube clone!

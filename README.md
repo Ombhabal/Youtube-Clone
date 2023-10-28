@@ -20,21 +20,21 @@ This is a YouTube clone web application built using React, styled with Tailwind 
 
 1. **Clone the repository:**
 
-   bash
+   ```bash
    git clone (https://github.com/Ombhabal/Youtube-Clone.git)
-   
+   ```
 
 2. **Navigate to the project directory:**
 
-   bash
+   ```bash
    cd youtube-clone
-   
+   ```
 
 3. **Install dependencies:**
 
-   bash
+   ```bash
    npm install
-   
+   ```
 
 4. **Set up RapidAPI Key:**
 
